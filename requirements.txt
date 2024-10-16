@@ -1,0 +1,10 @@
+multidict
+typing_extensions
+attrs
+yarl
+async_timeout
+idna_ssl
+aiosignal
+charset_normalizer
+aiohttp
+colorama

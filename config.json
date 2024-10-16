@@ -1,0 +1,5 @@
+{
+    "sleep_before_start": 5,
+    "account_delay": 5,
+    "countdown_loop": 100
+}
